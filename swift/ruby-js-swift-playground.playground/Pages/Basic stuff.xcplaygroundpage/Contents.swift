@@ -29,7 +29,7 @@ for i in someRange {
   print(i)
 }
 
-let myArray = [78,7,8]
+let myArray = [1,7,8]
 
 var growingArray = [Int]()
 
