@@ -20,5 +20,5 @@ One cool way to run all the different examples is to use the [Script add-on pack
 
 Some of these examples are pretty basic/silly, so I'd love to see some additional/better examples added so we can have a really solid set of comparisons between Swift, Ruby, and JS. I welcome all pull requests and feedback!
 
-–Jared White
+–Jared White  
 [Whitefusion](http://ux.whitefusion.io)
