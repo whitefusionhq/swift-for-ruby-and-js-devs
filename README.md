@@ -2,6 +2,8 @@
 
 Some example code files that implement the same functionality in Ruby, Javascript (ES6), and Swift.
 
+(Supports [this presentation](http://slides.com/jaredwhite/swift) which you can see for context).
+
 There are three different examples: Basic, Objects, and Mixins. If you execute all 3 examples in the different languages, the output should be virtually identical.
 
 ## Requirements
